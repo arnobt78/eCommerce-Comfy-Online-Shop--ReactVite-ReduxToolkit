@@ -1,8 +1,10 @@
 ## eCommerce-Comfy - ReactVite-ReduxToolkit
 
-This project is an eCommerce application built using React-Vite, TailwindCSS, Redux-Toolkit, React-Query and DaisyUI. It includes features such as product listings, filtering, pagination, user authentication, dark-light theme, external api call, and more.
+<img width="1125" alt="Screenshot 2025-02-25 at 16 26 43" src="https://github.com/user-attachments/assets/9cecb6cc-6dd5-4944-ae68-d7b1ec53d67a" /><img width="1101" alt="Screenshot 2025-02-25 at 16 26 56" src="https://github.com/user-attachments/assets/c7ed2baa-9b44-445e-b5d0-a574b5adf7d1" /><img width="1101" alt="Screenshot 2025-02-25 at 16 27 16" src="https://github.com/user-attachments/assets/0f6b9586-f959-46fc-b775-4264513a8676" /><img width="1105" alt="Screenshot 2025-02-25 at 16 28 17" src="https://github.com/user-attachments/assets/78dc6803-3afa-46d4-9602-80d3d4f4430d" /><img width="1101" alt="Screenshot 2025-02-25 at 16 28 37" src="https://github.com/user-attachments/assets/0414051f-2d85-4c38-97be-1b6ba231a04d" /><img width="1114" alt="Screenshot 2025-02-25 at 16 29 21" src="https://github.com/user-attachments/assets/96f92595-a8aa-4b53-83ad-26f535bc7fd1" /><img width="403" alt="Screenshot 2025-02-25 at 16 29 30" src="https://github.com/user-attachments/assets/5b346957-d97d-49aa-92dd-4f2c9afd46b0" /><img width="1106" alt="Screenshot 2025-02-25 at 16 29 54" src="https://github.com/user-attachments/assets/1cca2809-225f-4226-8ce2-df1d2f20ece7" /><img width="1105" alt="Screenshot 2025-02-25 at 16 30 23" src="https://github.com/user-attachments/assets/ca100a98-b9a0-4b30-b4b2-45ed8eadaec7" />
 
-**Online Live:**
+This project is an eCommerce application built using React-Vite, TailwindCSS, redux-toolkit, redux-thunk, redux-store, redux-form, tanstack/react-query, and DaisyUI. It includes features such as product listings, filtering, pagination, user authentication, dark-light theme, external api call, and more.
+
+**Online Live:** https://ecommerce-comfy-arnob.netlify.app/
 
 ## Useful Project Resources
 
